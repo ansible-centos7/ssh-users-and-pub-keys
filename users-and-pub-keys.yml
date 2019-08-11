@@ -3,9 +3,9 @@
 users:
   - name: tomonori
     authorized_keys:
-      #Windows VirtualBox on CentOS7 Desktop user tomonori
+      # Windows VirtualBox on CentOS7 Desktop user tomonori
       - 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDiIvaWih4v7YVMtUdzB86E6nCAmBPtM8J4x6jnJHIKvlW+GEtDIFUuy5wkLrlgS8sr6dYqDaqBVySZ6VumcFQRuj1E4jrMQ1FfsxC5RqfUDRAeDwOXfHr+T3D/bGkDtgmZ7ssmGuWI9xHM1WU48XULBuwmq1CbCAfEBSotKx46WAQr17B7NVMKpSilb3lizmtObDm2AXqpQm2/Z+4ko59kdQf/4m91NCdm2Ip1+eapIavttIYazVxDpxCbXQPrY7sHXOj0kux93mlTM0LxrsQ17ELlGRVJ6UvQO/Lje7CqQJUKIONLkiZc7hguHttaxc822OrkdEWhkWJRzvOMliZV tomonori@localhost.localdomain'
-      #Macbook Pro tomonori
+      # Macbook Pro tomonori
       - 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/aT4MNTGiWEM3K/i57EYOmrvAe2L3zVecQQUhzXZzDckWeUkpo4h3FfsJBqPjUBYPwfUhH25Zu3rL2fRWq2FcT5VkKV7KJTrVFE/JBVfeVeqvl6T6pN7x72tUFDubo2sNbdxtymiqx12CUyKpqVqIjQDLHhaHZFrtVzE3BX+Iyd8uclYEH1gl32TWMsaLo8w5tBGjnbfcwqRDTezZD1TR9en5AVac87pUP6gNtr/iUnztYEVo9Or62T7cZK7moRjktiO1hj7+zcirEh0T+WJmFb9+kgpJekrfAx7lPzYwNSqP8/tA2SLwFxqJNA6ogoZDSm3PPUNWbWh3DvT5QyB3 matsumuratomonori@matsumuratomonorinoMacBook-puro.local'
 
   - name: ios
@@ -14,4 +14,7 @@ users:
 
   - name: ansible
     authorized_keys:
+      # Macbook Pro .sss  
       - 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0iKLkGycJN0wvN5xiSpCfNravxcR+ctB9ogtzjkKE5kBBYWebgGaFE6Kx0xH2aii4GXkIBF6alwcm0A2i3YSBu5uUrz/DwF7xmrTVVwc69KtA3GNjPknr+CjCdSdlmI/DH5ojvg46ozqM9WpO1p2HS5GI7Or5yhHw1/ForB3Fdkbb9oCL0jLKFpKKVIO/jCh4GbAI8ho4h28CqDQQDTKMMdJkCoaI4fnWjW1w3+FwmOZw3qJHa0UBE4mgYtwlodWx9MpuFA7GllzBJnY4jhwz4KliQRLwqorchNBnrauczRsuh9MTsZadHmbDYI+zUc6sjxzg+L/6gEY1NGlXE+kd'
+      # JenkinsCI Server /home/ansible/.ssh/id_rsa.pub
+      - 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOi6ZoNtoJmJQaP0YT2Eli773ojAHeFvXoskl+IidPJaL822mbnMokasJ58V92u0SGXhEZRlqCXXV+itzFMJfVcoF7D7s3sbpnQo5wwbadjwWyMUWhB51+itIi9YohF0hWOOfXoFrUKgiQDx4teeVklmAfcWqPmzdZiIDxsgbiOpR4rqpqexGD4z5MaimpwXnPTtZBH0oPNspnc+cMjNONnI9EPGuuTod3aV5fYEs0KFIgUPN/hFalfKaUysL6p1G46dfhGE966I660sWh7GCc8zp38xT7df9N8nbXL8ZqasQFrfXimwgaP8JbV+qeJcf+503hSXQ8j2atjVBZqbSx' 
