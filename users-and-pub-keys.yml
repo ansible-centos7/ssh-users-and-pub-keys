@@ -18,5 +18,5 @@ users:
     authorized_keys:
       # Macbook Pro .sss  
       - 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0iKLkGycJN0wvN5xiSpCfNravxcR+ctB9ogtzjkKE5kBBYWebgGaFE6Kx0xH2aii4GXkIBF6alwcm0A2i3YSBu5uUrz/DwF7xmrTVVwc69KtA3GNjPknr+CjCdSdlmI/DH5ojvg46ozqM9WpO1p2HS5GI7Or5yhHw1/ForB3Fdkbb9oCL0jLKFpKKVIO/jCh4GbAI8ho4h28CqDQQDTKMMdJkCoaI4fnWjW1w3+FwmOZw3qJHa0UBE4mgYtwlodWx9MpuFA7GllzBJnY4jhwz4KliQRLwqorchNBnrauczRsuh9MTsZadHmbDYI+zUc6sjxzg+L/6gEY1NGlXE+kd'
-      # JenkinsCI Server /home/ansible/.ssh/id_rsa.pub
-      - 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOi6ZoNtoJmJQaP0YT2Eli773ojAHeFvXoskl+IidPJaL822mbnMokasJ58V92u0SGXhEZRlqCXXV+itzFMJfVcoF7D7s3sbpnQo5wwbadjwWyMUWhB51+itIi9YohF0hWOOfXoFrUKgiQDx4teeVklmAfcWqPmzdZiIDxsgbiOpR4rqpqexGD4z5MaimpwXnPTtZBH0oPNspnc+cMjNONnI9EPGuuTod3aV5fYEs0KFIgUPN/hFalfKaUysL6p1G46dfhGE966I660sWh7GCc8zp38xT7df9N8nbXL8ZqasQFrfXimwgaP8JbV+qeJcf+503hSXQ8j2atjVBZqbSx' 
+      # JenkinsCI Server@GCE /home/ansible/.ssh/id_rsa.pub
+      - 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDZPpvZDi9JEcoGyylz7+uGINB92s3jEbYvXlGZK4WKBJOytUhEy9+Y41GoF7+ZadrEoc6M7otZCZ4Ip3HMSd8vPdXBbYH6Yd+BmCMUJVvvhNaIqvtHIDN7ncu/Lj3AaqhxQ4W3t8K8KcSD5Q3i7UhugL/EW5u2/tzJoKKBsJv3tm/zCkhogwz3HJHYwt16cbBorV3VDT0/yKO+PS0X/cwEOVOdERDNExZJ0oGXTSgoyZI2v77ENuGcTpd/JLCNKcYQ2y9U17PanZD/rGp+mid27nHWMrvbwqcqkQjcSv0yjvZlEDVa5qs3j09MSVy7tXK0KxqDW0tGdtyMdpRMpO6H ansible@jenkins-osaka' 
